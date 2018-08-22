@@ -1,5 +1,4 @@
-# cartoon-beta by Madiyar Bolatov KazNRTU
-## [VISIT MY WEB-PAGE](http://nomadao.github.io/)
+# [cartoon-beta by Madiyar Bolatov KazNRTU](http://nomadao.github.io/)
 ![https://raw.githubusercontent.com/nomadao/cartoon-beta/master/src/scr.png](https://raw.githubusercontent.com/nomadao/cartoon-beta/master/src/scr.png)
 ## Instruction:
 ```
