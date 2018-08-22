@@ -1,5 +1,5 @@
-# cartoon-beta by Madiyar Bolatov
-[My web-page](http://nomadao.github.io/)
+# cartoon-beta by Madiyar Bolatov KazNRTU
+## [VISIT MY WEB-PAGE](http://nomadao.github.io/)
 ## Instruction:
 ```
 * Create 'movies' DB in phpMyAdmin
