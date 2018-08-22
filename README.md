@@ -2,7 +2,7 @@
 [My web-page](http://nomadao.github.io/)
 ## Instruction:
 ```
-* Create DB 'movies' in phpMyAdmin
+* Create 'movies' DB in phpMyAdmin
 * Import movies.sql
 * Copy files to the "mov" folder in the "domains" folder
 ```
